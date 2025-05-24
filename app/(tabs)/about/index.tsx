@@ -33,7 +33,7 @@ export default function About() {
             </Link>
             <Link href="/about/joyce" asChild>
                 <Pressable>
-                    <PhotoCircle imageSource={require('@/assets/images/joyce-photo.jpg')} size={100}></PhotoCircle>
+                    <PhotoCircle imageSource={require('@/assets/images/devs/joyce-photo.jpg')} size={100}></PhotoCircle>
                 </Pressable>
             </Link>
             <Link href="/about/leonardo" asChild>
